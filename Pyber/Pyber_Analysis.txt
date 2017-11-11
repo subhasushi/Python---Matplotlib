@@ -1,0 +1,9 @@
+1. From the given data, it is clear that the total number of drivers in Urban cities is highest and lowest in rural cities. 
+
+2. The average cost per ride in urban cities is lower compared to Suburban and rural cities. This could be because of the lower number of drivers available in rural and suburban areas.
+
+3. Also, the total rides in Urban cities is highest compared to rural and sub urban areas. This could be related to both lower number of drivers available and higher taxi fares in rural area. Hence it can be seen that the total number of drivers, average cost of ride per city and total rides per city are all interdependant. 
+
+4. This data can further be used to analyse the population trend in different types of cities. The higher number of rides could be related to higher population density in urban areas compared to rural and sub urban areas.
+
+5. There are certain limitations to this data such as the sample size for each type of city. i.e, there are more urban cities in the data than the rural cities. 
